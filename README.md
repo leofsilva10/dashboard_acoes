@@ -15,13 +15,15 @@ A frequência das cotações é diária, ou seja, cada ponto representa a cotaç
 
 É possível selecionar também o período a ser exibido.
 
+![image](https://github.com/leofsilva10/dashboard_acoes/assets/114931860/ec50a849-edd7-4feb-9616-777e53ef701c)
+
 Atualmente podemos encontrar 2 gráficos:
 - Cotações (padrão); e
 - Cotações com Média Móvel de 20 períodos.
 
 A Média Móvel de 20 períodos é conhecida como a média "seguidora de tendência", podendo apontar a direção do preço e servir como guia para novos investimentos.
 
-Para cada ponto, ela é calculada somando-se os preços de fechamento dos 20 últimos dias e dividindo o valor da soma por 20.
+Para cada ponto, ela é calculada somando-se os preços de fechamento dos 20 últimos dias e dividindo o valor da soma pelo número de períodos (20).
 
 Esse dashboard poderia ter uma lista enorme de ativos, mas como o intuito aqui é apenas demonstrar, disponibilizamos apenas 4 ações.
 
