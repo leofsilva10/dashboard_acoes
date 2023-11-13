@@ -25,6 +25,8 @@ A Média Móvel de 20 períodos é conhecida como a média "seguidora de tendên
 
 Para cada ponto, ela é calculada somando-se os preços de fechamento dos 20 últimos dias e dividindo o valor da soma pelo número de períodos (20).
 
+![image](https://github.com/leofsilva10/dashboard_acoes/assets/114931860/7c1bbd43-cd73-40cf-91d9-f2e47af85ee6)
+
 Esse dashboard poderia ter uma lista enorme de ativos, mas como o intuito aqui é apenas demonstrar, disponibilizamos apenas 4 ações:
 - Banco do Brasil;
 - Bradesco;
