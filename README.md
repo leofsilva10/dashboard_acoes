@@ -3,7 +3,7 @@ Dashboard de Ações da Bolsa.
 
 ![image](https://github.com/leofsilva10/dashboard_acoes/assets/114931860/4baca2b5-917f-47ed-bf09-7383c79721b6)
 
-Nessa dashboard é possível acompanhar as cotações de algumas ações da bolsa de valores aqui do Brasil.
+Nesse dashboard é possível acompanhar as cotações de algumas ações da bolsa de valores aqui do Brasil.
 
 São cotações armazenadas ao longo do tempo e que podem direcionar futuros investimentos.
 
